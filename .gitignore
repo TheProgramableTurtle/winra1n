@@ -1,0 +1,7 @@
+build/Debug
+build/x64
+Debug
+x64
+*.user
+*.rootfs.tar.gz
+.vs

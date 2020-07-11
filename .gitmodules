@@ -1,0 +1,3 @@
+[submodule "usbip-win"]
+	path = usbip-win
+	url = https://github.com/TheProgramableTurtle/usbip-win
